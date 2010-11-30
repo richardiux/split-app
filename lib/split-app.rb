@@ -1,0 +1,1 @@
+require 'split-app/railtie'
